@@ -1,6 +1,6 @@
 # Traduki uzantointerfacajn elementojn en Esperanton per AI
 
-Tampermonkey-skripto por traduki menuojn kaj dinamike aperantajn submenuojn en Esperanton per la OpenAI-API. Ghi funkcias en Google Docs kaj aliaj retejoj.
+Estas prezentata Tampermonkey-skripto, por traduki uzantointerfacajn elementojn en Esperanton per la OpenAI-API. La skripto funkcias en Google Docs kaj aliaj retejoj.
 
 ## Instalado
 
