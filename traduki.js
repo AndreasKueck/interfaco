@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Uzantointerfaco en Esperanto
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      2.0
 // @description  Tiu chi Tampermonkey-skripto tradukas uzantointerfacajn elementojn en Esperanton.
 // @author       Andreas Kueck
 // @match        *://*/*
