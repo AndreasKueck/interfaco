@@ -21,6 +21,10 @@ Estas prezentata Tampermonkey-skripto, por traduki uzantointerfacajn elementojn 
 
 Se la butono mankas, kontrolu la permesojn de Tampermonkey kaj eventualajn instruojn pri aktivigo de uzantoskriptoj.
 
+**Vochlegado:** Se per la dekstra musklavo oni klakas al uzantointerfaca elemento au markita teksto ekster tia elemento, oni aperigas "Vochlegi".
+Al ghi klakante per la maldekstra musklavo, oni aperigas fenestreton kun ebloj por vochlegado.
+Por aperigi la menuon, kiu ordinare aperas post klako per la dekstra musklavo, oni premu la SHALT-klavon plus dekstran musklavon.
+
 ## Atentu
 
 - Menuaj tekstoj estas sendataj al OpenAI kaj povas enteni dosiernomojn au aliajn personajn informojn.
