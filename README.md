@@ -25,6 +25,11 @@ Se la butono mankas, kontrolu la permesojn de Tampermonkey kaj eventualajn instr
 Al ghi klakante per la maldekstra musklavo, oni aperigas fenestreton kun ebloj por vochlegado.
 Por aperigi la menuon, kiu ordinare aperas post klako per la dekstra musklavo, oni premu la SHALT-klavon plus dekstran musklavon.
 
+## Alternativo per realtempa API de OpenAI
+
+Konsidere la anoncitan [evitindigon](https://developers.openai.com/api/docs/deprecations) de interalie `gpt-4o-mini-tts` jen alternativa parolsintezo per modelo `gpt-realtime-2.1-tts`:
+Temas pri Tampermonkey-skripto traduki__alternativo.js trovebla [tie](https://github.com/AndreasKueck/interfaco/tree/main/alternativo_per_realtempa_api).
+
 ## Atentu
 
 - Menuaj tekstoj estas sendataj al OpenAI kaj povas enteni dosiernomojn au aliajn personajn informojn.
